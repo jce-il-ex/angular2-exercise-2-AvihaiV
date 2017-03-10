@@ -10,20 +10,16 @@ export class NavMenuComponent implements OnInit {
 
   navMenu = [
     {
-      id: 1,
-      txt: 'a'
+      id: 'About',
     },
     {
-      id: 2,
-      txt: 'b'
+      id: 'Contect-Us',
     },
     {
-      id: 3,
-      txt: 'c'
+      id: 'More Info',
     },
     {
-      id: 4,
-      txt: 'd'
+      id: 'Donate',
     }
   ];
 
